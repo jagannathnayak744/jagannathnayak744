@@ -1,187 +1,303 @@
-# 👋 Hi, I'm Jagannath Nayak
+# 👋 HI, I'M JAGANNATH NAYAK
 
-<h3 align="center">
-  💻 Software Developer | 🐍 Python Developer | ⚙️ Backend Developer
-</h3>
+<h1 align="center">
+  💻 SOFTWARE DEVELOPER
+</h1>
+
+<h2 align="center">
+  🐍 PYTHON DEVELOPER &nbsp; • &nbsp; ⚙️ BACKEND DEVELOPER
+</h2>
 
 <p align="center">
-  Building scalable applications, REST APIs & database-driven systems
+  <strong>Building Scalable Applications • REST APIs • Database-Driven Systems</strong>
 </p>
 
 <p align="center">
-
-🟦 Backend Development  
-🟨 Python  
-🟩 REST APIs  
-🟪 PostgreSQL  
-🟧 Node.js  
-🐳 Docker  
-🔵 Postman  
-
+  🐍 Python &nbsp;&nbsp; ⚙️ Backend &nbsp;&nbsp; 🔗 REST APIs
+  <br>
+  🗄️ PostgreSQL &nbsp;&nbsp; 🟢 Node.js &nbsp;&nbsp; 🐳 Docker
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 ABOUT ME
 
 I'm a **Software Developer** passionate about building reliable,
 scalable and maintainable applications.
 
-My primary focus is on **Backend Development, Python, REST APIs,
-Databases and Full-Stack Application Development**.
+My primary focus is:
 
-I enjoy turning real-world requirements into clean, efficient
-and production-ready software.
+### 🐍 PYTHON DEVELOPMENT
+### ⚙️ BACKEND ENGINEERING
+### 🔗 REST API DEVELOPMENT
+### 🗄️ DATABASE DEVELOPMENT
+### 🌐 FULL-STACK APPLICATIONS
 
-### 💡 What I Do
-
-- 🐍 Develop backend applications using **Python**
-- ⚙️ Build and integrate **REST APIs**
-- 🗄️ Design and work with **PostgreSQL databases**
-- 🟢 Develop backend services using **Node.js**
-- 🐳 Containerize applications using **Docker**
-- 🔍 Test and debug APIs using **Postman**
-- 🌐 Build full-stack web applications
-- 🚀 Improve application performance and reliability
-- 🔧 Write clean, maintainable and reusable code
+I enjoy transforming real-world requirements into clean,
+efficient and production-ready software.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 WHAT I DO
 
-### 👨‍💻 Programming Languages
-
-| Technology | Experience |
+| 💻 AREA | 🔥 FOCUS |
 |---|---|
-| 🐍 Python | Backend & Application Development |
-| 🟨 JavaScript | Web & Backend Development |
-| 🟢 Node.js | Backend Development |
-| 🌐 HTML | Web Development |
-| 🎨 CSS | Web Development |
+| 🐍 **Python** | Backend & Application Development |
+| ⚙️ **Backend** | Business Logic & Application Architecture |
+| 🔗 **REST APIs** | API Design & Integration |
+| 🗄️ **PostgreSQL** | Database Design & SQL |
+| 🟢 **Node.js** | Backend Development |
+| 🐳 **Docker** | Application Containerization |
+| 🔵 **Postman** | API Testing & Debugging |
+| 🐙 **Git/GitHub** | Version Control & Collaboration |
 
 ---
 
-### ⚙️ Backend Development
+# 🛠️ TECH STACK
 
-- 🐍 Python
-- 🟢 Node.js
-- 🔗 REST APIs
-- 🔐 API Authentication
-- 📡 HTTP / JSON
-- 🧩 Backend Architecture
-- 🔄 CRUD Operations
-- ⚡ API Integration
+## 🐍 PYTHON
+
+### **Python • Backend Development • Scripting • Automation**
 
 ---
 
-### 🗄️ Databases
+## ⚙️ BACKEND DEVELOPMENT
 
-- 🐘 PostgreSQL
-- 🗃️ SQL
-- 🔍 Database Queries
-- 🧱 Database Design
-- 🔗 Relationships & Joins
-- ⚡ Query Optimization
+### **REST APIs • CRUD • Authentication • Business Logic**
 
 ---
 
-### 🐳 Dev & API Tools
+## 🔗 API DEVELOPMENT
 
-- 🐳 Docker
-- 🔵 Postman
-- 🐙 Git
-- 🐙 GitHub
-- 💻 VS Code
-- 🐧 Linux
+### **REST API • HTTP • JSON • API Integration • Postman**
 
 ---
 
-## 🚀 Featured Projects
+## 🗄️ DATABASES
 
-### 🐍 Python Backend Application
-
-A backend application focused on building reliable APIs,
-database integration and business logic.
-
-**Tech:**  
-`Python` `REST API` `PostgreSQL` `Postman`
+### **PostgreSQL • SQL • Database Design • Joins • Query Optimization**
 
 ---
 
-### 🔗 REST API Project
+## 🟢 NODE.JS
 
-A production-style REST API demonstrating:
-
-- API design
-- CRUD operations
-- Authentication
-- Database integration
-- Error handling
-- API testing
-
-**Tech:**  
-`Python` `REST API` `PostgreSQL` `Postman`
+### **Node.js • JavaScript • Backend Services • REST APIs**
 
 ---
 
-### 🗄️ PostgreSQL Database Project
+## 🐳 DEVOPS & TOOLS
 
-A database-driven application demonstrating:
-
-- Database design
-- SQL queries
-- Relationships
-- Joins
-- Data validation
-- Query optimization
-
-**Tech:**  
-`PostgreSQL` `SQL` `Python`
+### **Docker • Git • GitHub • Linux • Postman • VS Code**
 
 ---
 
-### 🟢 Node.js Backend Application
+# 🚀 FEATURED PROJECTS
 
-A backend application developed using Node.js
-with REST API integration and database connectivity.
+## 🐍 01 — PYTHON BACKEND APPLICATION
 
-**Tech:**  
-`Node.js` `JavaScript` `REST API` `PostgreSQL`
+> Production-style backend application focused on clean architecture,
+> API development and database integration.
 
----
+**Tech Stack**
 
-### 🐳 Dockerized Application
-
-A containerized application demonstrating
-how to package and run a backend application
-using Docker.
-
-**Tech:**  
-`Docker` `Python` `PostgreSQL`
+`🐍 Python` `🔗 REST API` `🗄️ PostgreSQL` `🔵 Postman`
 
 ---
 
-## 📊 GitHub Activity
+## 🔗 02 — REST API PROJECT
+
+> Scalable REST API demonstrating CRUD operations,
+> authentication, validation and database integration.
+
+**Tech Stack**
+
+`🐍 Python` `🔗 REST API` `🗄️ PostgreSQL` `🔵 Postman`
+
+---
+
+## 🗄️ 03 — DATABASE APPLICATION
+
+> Database-driven application demonstrating relational
+> database design, SQL queries and optimized data access.
+
+**Tech Stack**
+
+`🗄️ PostgreSQL` `💾 SQL` `🐍 Python`
+
+---
+
+## 🟢 04 — NODE.JS BACKEND
+
+> Backend application using Node.js with REST API
+> architecture and database connectivity.
+
+**Tech Stack**
+
+`🟢 Node.js` `🟨 JavaScript` `🔗 REST API` `🗄️ PostgreSQL`
+
+---
+
+## 🐳 05 — DOCKERIZED APPLICATION
+
+> Containerized backend application designed for
+> consistent development and deployment environments.
+
+**Tech Stack**
+
+`🐳 Docker` `🐍 Python` `🗄️ PostgreSQL`
+
+---
+
+# 🎯 MY CORE SKILLS
+
+<table>
+<tr>
+<td align="center">
+
+# 🐍
+## PYTHON
+
+</td>
+
+<td align="center">
+
+# ⚙️
+## BACKEND
+
+</td>
+
+<td align="center">
+
+# 🔗
+## REST APIs
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+# 🗄️
+## POSTGRESQL
+
+</td>
+
+<td align="center">
+
+# 🟢
+## NODE.JS
+
+</td>
+
+<td align="center">
+
+# 🐳
+## DOCKER
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+# 🔵
+## POSTMAN
+
+</td>
+
+<td align="center">
+
+# 🐙
+## GIT
+
+</td>
+
+<td align="center">
+
+# ☁️
+## CLOUD
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 CURRENTLY LEARNING
+
+### 🐍 Advanced Python
+### ⚙️ Backend Architecture
+### 🔗 Advanced REST API Development
+### 🗄️ PostgreSQL & Database Optimization
+### 🐳 Docker & Containerization
+### 🟢 Node.js
+### ☁️ Cloud Technologies
+### 🚀 Production Deployment
+
+---
+
+# 💡 DEVELOPMENT PHILOSOPHY
+
+> ### **"Build simple. Build clean. Build for production."**
+
+I believe good software should be:
+
+**✨ Clean • 🧩 Maintainable • 🔐 Secure • ⚡ Fast • 🧪 Tested • 🚀 Scalable**
+
+---
+
+# 📊 GITHUB JOURNEY
 
 <p align="center">
 
-🚀 Building Projects  
-📚 Learning New Technologies  
-🐛 Solving Problems  
-💡 Exploring Better Solutions  
+### 💻 CODE
+### ↓
+### 🧠 LEARN
+### ↓
+### 🛠️ BUILD
+### ↓
+### 🚀 DEPLOY
+### ↓
+### 📈 IMPROVE
 
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 🎯 CAREER FOCUS
 
-```text
-🐍 Advanced Python
-⚙️ Backend Architecture
-🔗 Advanced REST API Development
-🗄️ PostgreSQL & Database Optimization
-🐳 Docker & Containerization
-🟢 Node.js
-☁️ Cloud Technologies
-🚀 Production Deployment
+<p align="center">
+
+## 💻 SOFTWARE DEVELOPER
+
+### 🐍 Python Developer
+### ⚙️ Backend Developer
+### 🌐 Full-Stack Developer
+
+</p>
+
+---
+
+# 🤝 LET'S CONNECT
+
+<p align="center">
+
+### 💼 OPEN TO SOFTWARE DEVELOPMENT OPPORTUNITIES
+
+### 🐍 Python • ⚙️ Backend • 🔗 REST API • 🗄️ PostgreSQL
+
+</p>
+
+---
+
+<h2 align="center">
+
+🚀 BUILD • LEARN • IMPROVE • REPEAT 🚀
+
+</h2>
+
+<p align="center">
+
+⭐ Thanks for visiting my GitHub profile!
+
+</p>
