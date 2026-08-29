@@ -379,15 +379,20 @@ I believe good software should be:
 
 ---
 
+---
+
 # 💻 Most Used Languages
 
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagannathnayak744&layout=compact&langs_count=8&hide_border=true"
+  alt="Most Used Languages"
 />
 
 </p>
+
+---
 
 ---
 
