@@ -27,23 +27,24 @@
   🐍 Python &nbsp; • &nbsp;
   ⚡ FastAPI &nbsp; • &nbsp;
   🔗 REST APIs &nbsp; • &nbsp;
-  🗄️ PostgreSQL &nbsp; • &nbsp;
-  ☁️ AWS &nbsp; • &nbsp;
+  🗄️ MySQL &nbsp; • &nbsp;
   🤖 AI/ML
 </p>
 
 <p align="center">
 
 <a href="mailto:jagannathn326@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jagannathn326%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/EMAIL-jagannathn326%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<img src="https://img.shields.io/badge/LOCATION-BHUBANESWAR%2C%20INDIA-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white">
+
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Jagannath%20Nayak-black?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-JAGANNATH%20NAYAK-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Jagannath%20Nayak-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LINKEDIN-JAGANNATH%20NAYAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
@@ -60,17 +61,31 @@
   />
 </p>
 
-I'm **Jagannath Nayak**, a **Software Developer** with **1.5+ years of professional experience** at **Seereon Consulting & IT Services Pvt. Ltd.**
+I'm **Jagannath Nayak**, a **Software Developer** with
+**1.5+ years of professional experience** at
+**Seereon Consulting & IT Services Pvt. Ltd.**
 
-My primary expertise is in **Python backend development, REST API development, API integration, database-driven applications, and scalable application architecture**.
+📍 **Bhubaneswar, India**
 
-I work on real-world software systems where I focus on building clean backend services, implementing business logic, integrating APIs, designing database operations, and developing reliable production-ready applications.
+My primary expertise is in **Python backend development,
+FastAPI, REST API development, API integration, MySQL,
+database-driven applications, authentication, authorization,
+and scalable application architecture**.
 
-Currently, I'm expanding my expertise into **Artificial Intelligence and Machine Learning** with the goal of progressing from:
+I work on real-world software systems where I focus on
+building clean backend services, implementing business logic,
+integrating APIs, designing database operations, and
+developing reliable production-ready applications.
+
+Currently, I'm expanding my expertise into
+**Artificial Intelligence and Machine Learning**.
+
+### 🏗️ Currently → 🤖 AI Developer
 
 ### ⚙️ Backend Developer → 🐍 Python Developer → 🤖 AI Developer
 
-I want to combine my backend engineering experience with AI to build **scalable, intelligent, and production-ready applications**.
+I want to combine my backend engineering experience with AI
+to build **scalable, intelligent, and production-ready applications**.
 
 <br clear="right"/>
 
@@ -82,16 +97,16 @@ I want to combine my backend engineering experience with AI to build **scalable,
 
 **Software Developer | Python Backend Developer**
 
-📍 Bhubaneswar, India
+📍 **Bhubaneswar, India**
 
-**Experience:** 1.5+ Years
+⏳ **Experience: 1.5+ Years**
 
 ### 🔥 Key Responsibilities
 
 - 🐍 Develop backend applications using **Python**
-- ⚡ Build and maintain **REST APIs**
+- ⚡ Build and maintain **FastAPI REST APIs**
 - 🔗 Integrate third-party and internal APIs
-- 🗄️ Work with relational databases and SQL
+- 🗄️ Work with **MySQL** and relational databases
 - 🔐 Implement authentication and authorization
 - 🧩 Develop business logic and CRUD operations
 - 🔄 Debug and optimize backend services
@@ -158,9 +173,13 @@ Building intelligent applications
 
 <p align="center">
   <strong>
-    My goal is to combine backend engineering with Artificial Intelligence
-    to build scalable and intelligent software.
+    🏗️ Currently → 🤖 AI Developer
   </strong>
+</p>
+
+<p align="center">
+  My goal is to combine backend engineering with Artificial Intelligence
+  to build scalable and intelligent software.
 </p>
 
 ---
@@ -170,6 +189,7 @@ Building intelligent applications
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=800&lines=Learning+Artificial+Intelligence;Learning+Machine+Learning;Building+AI+Applications;Integrating+AI+with+Backend+Systems;Becoming+an+AI+Developer"
+    alt="Learning Animation"
   />
 </p>
 
@@ -187,12 +207,12 @@ Building intelligent applications
 - 🧠 Deep Learning
 - 🤖 Generative AI
 - 🔌 AI-powered backend applications
-- ☁️ Deploy AI applications to cloud
+- 🧠 LLM application development
 - 🏗️ Production AI architecture
 
 ### 💡 Long Term
 
-> **Become a strong AI Developer by combining backend engineering, Python, cloud technologies, and Artificial Intelligence.**
+> **Become a strong AI Developer by combining backend engineering, Python, databases, and Artificial Intelligence.**
 
 ---
 
@@ -206,7 +226,7 @@ Building intelligent applications
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge">
 <img src="https://img.shields.io/badge/REST%20API-FF7043?style=for-the-badge">
-<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/JWT%20AUTH-000000?style=for-the-badge">
 </p>
 
 ---
@@ -214,35 +234,19 @@ Building intelligent applications
 ## 🗄️ Databases
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## 🧰 Development Tools
 
 <p>
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>
-
----
-
-## 🐳 DevOps & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ---
@@ -251,7 +255,9 @@ Building intelligent applications
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Deep+Learning;Generative+AI;AI+Application+Development;AI+%2B+Backend+Integration">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Deep+Learning;Generative+AI;AI+Application+Development;AI+%2B+Backend+Integration"
+alt="AI ML Animation"
+/>
 
 </p>
 
@@ -270,7 +276,8 @@ Building intelligent applications
 
 ## 🏫 Edureon ERP
 
-> A database-driven ERP platform designed to manage institute operations through modular backend services and REST APIs.
+> A database-driven ERP platform designed to manage institute
+> operations through modular backend services and REST APIs.
 
 ### Key Areas
 
@@ -281,27 +288,29 @@ Building intelligent applications
 - 🔐 Authentication & Authorization
 - 👥 Role-Based Access Control
 - 🔗 REST API Integration
-- 🗄️ Database Management
+- 🗄️ MySQL Database Management
 
 **Technology**
 
-`Python` `FastAPI` `REST API` `PostgreSQL` `SQLAlchemy` `JWT` `React.js`
+`Python` `FastAPI` `REST API` `MySQL` `SQLAlchemy` `JWT` `React.js`
 
 ---
 
 ## 🔗 REST API & Backend Systems
 
-> Production-oriented backend services focused on API design, business logic, validation, authentication, and database integration.
+> Production-oriented backend services focused on API design,
+> business logic, validation, authentication, and database integration.
 
 **Technology**
 
-`Python` `FastAPI` `REST API` `PostgreSQL` `SQLAlchemy` `Pydantic`
+`Python` `FastAPI` `REST API` `MySQL` `SQLAlchemy` `Pydantic`
 
 ---
 
 ## 🤖 AI + Backend Applications
 
-> Future-focused projects combining Python backend engineering with Artificial Intelligence and Machine Learning.
+> Future-focused projects combining Python backend engineering
+> with Artificial Intelligence and Machine Learning.
 
 **Technology**
 
@@ -313,7 +322,10 @@ Building intelligent applications
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=900&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Deep+Learning;Generative+AI;AI+Agents;LLM+Applications;AI+API+Integration;Cloud+Deployment">
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=900&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Deep+Learning;Generative+AI;AI+Agents;LLM+Applications;AI+API+Integration"
+alt="Currently Learning"
+/>
 
 </p>
 
@@ -396,11 +408,26 @@ I believe good software should be:
 
 </p>
 
+<p align="center">
+
+🏗️ <strong>Currently:</strong> Backend Developer
+
+<br>
+
+⬇️
+
+<br>
+
+🤖 <strong>Target:</strong> AI Developer
+
+</p>
+
 ---
 
 # 💼 Open to Opportunities
 
-I'm interested in opportunities where I can contribute to **backend engineering** while growing toward **AI development**.
+I'm interested in opportunities where I can contribute to
+**backend engineering** while progressing toward **AI development**.
 
 ### Looking for roles such as:
 
@@ -417,16 +444,20 @@ I'm interested in opportunities where I can contribute to **backend engineering*
 
 <p align="center">
 
+📍 **Bhubaneswar, India**
+
+<br>
+
+📧 **jagannathn326@gmail.com**
+
+<br><br>
+
 <a href="mailto:jagannathn326@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-jagannathn326%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LINKEDIN-JAGANNATH%20NAYAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-JAGANNATH%20NAYAK-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
@@ -436,7 +467,8 @@ I'm interested in opportunities where I can contribute to **backend engineering*
 <p align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=🚀+Backend+Today+%7C+AI+Tomorrow;🐍+Code+%7C+🧠+Learn+%7C+🤖+Build+%7C+🚀+Innovate"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=🏗️+Backend+Today+%7C+🤖+AI+Tomorrow;🐍+Code+%7C+🧠+Learn+%7C+🤖+Build+%7C+🚀+Innovate"
+  alt="Closing Animation"
 />
 
 </p>
