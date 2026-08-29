@@ -369,34 +369,15 @@ I believe good software should be:
 
 <p align="center">
 
-  <a href="https://github.com/jagannathnayak744">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=jagannathnayak744&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default"
-      height="180"
-      alt="GitHub Stats"
-    />
-  </a>
+<img
+src="https://github-readme-stats.vercel.app/api?username=jagannathnayak744&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github"
+height="180"
+/>
 
-  <a href="https://github.com/jagannathnayak744">
-    <img
-      src="https://streak-stats.demolab.com/?user=jagannathnayak744&theme=dark&hide_border=true&background=0D1117"
-      height="180"
-      alt="GitHub Streak"
-    />
-  </a>
-
-</p>
-
-💻 Most Used Languages
-
-<p align="center">
-
-  <a href="https://github.com/jagannathnayak744">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagannathnayak744&layout=donut&langs_count=8&card_width=600&hide_border=true&theme=default"
-      alt="Most Used Languages"
-    />
-  </a>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=jagannathnayak744&hide_border=true"
+height="180"
+/>
 
 </p>
 
@@ -407,8 +388,8 @@ I believe good software should be:
 <p align="center">
 
 <img
- src="https://raw.githubusercontent.com/jagannathnayak744/jagannathnayak744/output/github-contribution-grid-snake.svg"
- alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/jagannathnayak744/jagannathnayak744/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
 />
 
 </p>
