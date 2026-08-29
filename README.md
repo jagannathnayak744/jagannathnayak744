@@ -380,20 +380,7 @@ I believe good software should be:
 
 </p>
 
----
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=jagannathnayak744&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-  alt="Most Used Languages"
-/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
