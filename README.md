@@ -370,12 +370,12 @@ I believe good software should be:
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=jagannathnayak744&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github"
   height="180"
 />
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=jagannathnayak744&hide_border=true"
   height="180"
 />
 
@@ -400,7 +400,7 @@ I believe good software should be:
 <p align="center">
 
 <img
-  src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
+  src="https://raw.githubusercontent.com/jagannathnayak744/jagannathnayak744/output/github-contribution-grid-snake.svg"
   alt="GitHub Contribution Snake"
 />
 
