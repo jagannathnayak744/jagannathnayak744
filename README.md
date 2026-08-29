@@ -383,17 +383,7 @@ I believe good software should be:
 
 ---
 
-# 💻 Most Used Languages
 
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagannathnayak744&layout=compact&hide_border=true&langs_count=8"
-/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
