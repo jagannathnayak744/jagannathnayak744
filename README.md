@@ -39,7 +39,7 @@
 
 <img src="https://img.shields.io/badge/LOCATION-BHUBANESWAR%2C%20INDIA-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/jagannathnayak1/">
   <img src="https://img.shields.io/badge/LINKEDIN-JAGANNATH%20NAYAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
