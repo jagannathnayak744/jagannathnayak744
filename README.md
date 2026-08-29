@@ -37,19 +37,19 @@
   <img
     src="https://img.shields.io/badge/EMAIL-jagannathn326%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
-  >
+  />
 </a>
 
 <img
   src="https://img.shields.io/badge/LOCATION-BHUBANESWAR%2C%20INDIA-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white"
   alt="Location"
->
+/>
 
 <a href="https://github.com/jagannathnayak744">
   <img
     src="https://img.shields.io/badge/GITHUB-JAGANNATH%20NAYAK-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
-  >
+  />
 </a>
 
 </p>
@@ -154,7 +154,7 @@ Python • Backend • FastAPI • REST APIs
 
 ### AI DEVELOPER
 
-Artificial Intelligence • ML • AI Applications
+Artificial Intelligence • Machine Learning • AI Applications
 
 </td>
 
@@ -223,32 +223,32 @@ Artificial Intelligence • ML • AI Applications
 <img
   src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
   alt="Python"
->
+/>
 
 <img
   src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
   alt="FastAPI"
->
+/>
 
 <img
   src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"
   alt="SQLAlchemy"
->
+/>
 
 <img
   src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"
   alt="Pydantic"
->
+/>
 
 <img
   src="https://img.shields.io/badge/REST%20API-FF7043?style=for-the-badge"
   alt="REST API"
->
+/>
 
 <img
   src="https://img.shields.io/badge/JWT%20AUTH-000000?style=for-the-badge"
   alt="JWT Authentication"
->
+/>
 
 </p>
 
@@ -261,12 +261,12 @@ Artificial Intelligence • ML • AI Applications
 <img
   src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
   alt="MySQL"
->
+/>
 
 <img
   src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
   alt="MongoDB"
->
+/>
 
 </p>
 
@@ -279,22 +279,22 @@ Artificial Intelligence • ML • AI Applications
 <img
   src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
   alt="Postman"
->
+/>
 
 <img
   src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
   alt="Linux"
->
+/>
 
 <img
   src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
   alt="VS Code"
->
+/>
 
 <img
   src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
   alt="Docker"
->
+/>
 
 </p>
 
@@ -316,22 +316,22 @@ Artificial Intelligence • ML • AI Applications
 <img
   src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
   alt="Python"
->
+/>
 
 <img
   src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
   alt="NumPy"
->
+/>
 
 <img
   src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
   alt="Pandas"
->
+/>
 
 <img
   src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
   alt="Scikit Learn"
->
+/>
 
 </p>
 
@@ -426,46 +426,24 @@ I believe good software should be:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Profile
 
 <p align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=jagannathnayak744&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github"
-  height="180"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=jagannathnayak744&hide_border=true"
-  height="180"
-  alt="GitHub Streak"
-/>
+<a href="https://github.com/jagannathnayak744">
+  <img
+    src="https://img.shields.io/badge/GitHub-jagannathnayak744-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Profile"
+  />
+</a>
 
 </p>
 
----
-
-# 💻 Most Used Languages
-
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagannathnayak744&layout=compact&langs_count=8&hide_border=true"
-  alt="Most Used Languages"
-/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/jagannathnayak744/jagannathnayak744/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jagannathnayak744&theme=github-compact&hide_border=true&area=true"
+  alt="GitHub Activity Graph"
 />
 
 </p>
