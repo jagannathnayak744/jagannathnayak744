@@ -34,22 +34,13 @@
 <p align="center">
 
 <a href="mailto:jagannathn326@gmail.com">
-  <img
-    src="https://img.shields.io/badge/EMAIL-jagannathn326%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+  <img src="https://img.shields.io/badge/EMAIL-jagannathn326%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<img
-  src="https://img.shields.io/badge/LOCATION-BHUBANESWAR%2C%20INDIA-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white"
-  alt="Location"
-/>
+<img src="https://img.shields.io/badge/LOCATION-BHUBANESWAR%2C%20INDIA-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white">
 
 <a href="https://www.linkedin.com/in/jagannathnayak1/">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-JAGANNATH%20NAYAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/LINKEDIN-JAGANNATH%20NAYAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
@@ -63,7 +54,6 @@
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     width="360"
     align="right"
-    alt="Coding Animation"
   />
 </p>
 
@@ -164,16 +154,20 @@ Artificial Intelligence • ML • AI Applications
 </p>
 
 <p align="center">
-  <strong>
-    🏗️ Currently: Software Developer
-    &nbsp; → &nbsp;
-    🎯 Target: AI Developer
-  </strong>
+
+<strong>
+🏗️ Currently: Software Developer
+&nbsp;&nbsp; → &nbsp;&nbsp;
+🎯 Target: AI Developer
+</strong>
+
 </p>
 
 <p align="center">
-  Building strong backend engineering foundations today
-  to create intelligent AI applications tomorrow.
+
+Building strong backend engineering foundations today
+to create intelligent AI applications tomorrow.
+
 </p>
 
 ---
@@ -218,35 +212,17 @@ Artificial Intelligence • ML • AI Applications
 
 <p>
 
-<img
-  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  alt="Python"
-/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<img
-  src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
-  alt="FastAPI"
-/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 
-<img
-  src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"
-  alt="SQLAlchemy"
-/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge">
 
-<img
-  src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"
-  alt="Pydantic"
-/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge">
 
-<img
-  src="https://img.shields.io/badge/REST%20API-FF7043?style=for-the-badge"
-  alt="REST API"
-/>
+<img src="https://img.shields.io/badge/REST%20API-FF7043?style=for-the-badge">
 
-<img
-  src="https://img.shields.io/badge/JWT%20AUTH-000000?style=for-the-badge"
-  alt="JWT Authentication"
-/>
+<img src="https://img.shields.io/badge/JWT%20AUTH-000000?style=for-the-badge">
 
 </p>
 
@@ -256,15 +232,9 @@ Artificial Intelligence • ML • AI Applications
 
 <p>
 
-<img
-  src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-  alt="MySQL"
-/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-<img
-  src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
-  alt="MongoDB"
-/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 
 </p>
 
@@ -274,25 +244,13 @@ Artificial Intelligence • ML • AI Applications
 
 <p>
 
-<img
-  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
-  alt="Postman"
-/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
-<img
-  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-  alt="Linux"
-/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-<img
-  src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
-  alt="VS Code"
-/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
-<img
-  src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-  alt="Docker"
-/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 </p>
 
@@ -311,25 +269,13 @@ Artificial Intelligence • ML • AI Applications
 
 <p>
 
-<img
-  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  alt="Python"
-/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<img
-  src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
-  alt="NumPy"
-/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 
-<img
-  src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-  alt="Pandas"
-/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
-<img
-  src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
-  alt="Scikit Learn"
-/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
 </p>
 
@@ -424,15 +370,13 @@ I believe good software should be:
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=jagannathnayak744&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent"
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github"
   height="180"
-  alt="GitHub Stats"
 />
 
 <img
-  src="https://streak-stats.demolab.com/?user=jagannathnayak744&hide_border=true&theme=transparent"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"
   height="180"
-  alt="GitHub Streak"
 />
 
 </p>
@@ -444,9 +388,7 @@ I believe good software should be:
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=jagannathnayak744&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-  height="180"
-  alt="Most Used Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8"
 />
 
 </p>
@@ -458,7 +400,7 @@ I believe good software should be:
 <p align="center">
 
 <img
-  src="https://raw.githubusercontent.com/jagannathnayak744/jagannathnayak744/output/github-contribution-grid-snake.svg"
+  src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
   alt="GitHub Contribution Snake"
 />
 
@@ -524,17 +466,11 @@ continuing my transition toward **AI Development**.
 <br><br>
 
 <a href="mailto:jagannathn326@gmail.com">
-  <img
-    src="https://img.shields.io/badge/EMAIL-jagannathn326%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+<img src="https://img.shields.io/badge/EMAIL-jagannathn326%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/jagannathnayak1/">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-JAGANNATH%20NAYAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img src="https://img.shields.io/badge/LINKEDIN-JAGANNATH%20NAYAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
