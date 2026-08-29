@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bijaya Kumar Jena
+# 👋 Hi, I'm Jagannath Nayak
 
 <h3 align="center">
   💻 Software Developer | 🐍 Python Developer | ⚙️ Backend Developer
