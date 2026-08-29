@@ -460,18 +460,25 @@ I'm interested in opportunities where I can contribute to
 
 ---
 
-<p align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=🏗️+Backend+Today+%7C+🤖+AI+Tomorrow;🐍+Code+%7C+🧠+Learn+%7C+🤖+Build+%7C+🚀+Innovate"
-  alt="Closing Animation"
-/>
-
-</p>
+# 🤝 Let's Connect
 
 <p align="center">
 
-⭐ <strong>Thanks for visiting my GitHub profile!</strong> ⭐
+📍 <strong>Bhubaneswar, India</strong>
+
+<br><br>
+
+📧 <strong>jagannathn326@gmail.com</strong>
+
+<br><br>
+
+<a href="mailto:jagannathn326@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-jagannathn326%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/jagannathnayak1/">
+<img src="https://img.shields.io/badge/LINKEDIN-JAGANNATH%20NAYAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </p>
 
