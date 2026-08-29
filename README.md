@@ -39,10 +39,6 @@
 
 <img src="https://img.shields.io/badge/LOCATION-BHUBANESWAR%2C%20INDIA-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-JAGANNATH%20NAYAK-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 <a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LINKEDIN-JAGANNATH%20NAYAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
