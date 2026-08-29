@@ -8,14 +8,14 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00A8FF&center=true&vCenter=true&width=850&lines=Software+Developer;Python+%26+Backend+Developer;Backend+Developer+%E2%86%92+AI+Developer;Building+Scalable+Backend+Systems;Building+Intelligent+AI+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00A8FF&center=true&vCenter=true&width=850&lines=Software+Developer;Python+%26+Backend+Developer;FastAPI+%26+REST+API+Developer;Building+Scalable+Applications;Learning+Artificial+Intelligence;Targeting+AI+Developer"
     alt="Typing Animation"
   />
 </p>
 
 <p align="center">
   <strong>
-    ⚙️ Backend Developer → 🤖 AI Developer
+    💻 Software Developer → 🎯 AI Developer
   </strong>
 </p>
 
@@ -73,15 +73,17 @@ building clean backend services, implementing business logic,
 integrating APIs, designing database operations, and
 developing reliable production-ready applications.
 
-Currently, I'm expanding my expertise into
-**Artificial Intelligence and Machine Learning**.
+Currently, I am working as a **Software Developer** and
+expanding my expertise toward **Artificial Intelligence and
+Machine Learning**.
 
-### 🏗️ Currently → 🤖 AI Developer
+### 💻 Current → 🎯 Target
 
-### ⚙️ Backend Developer → 🐍 Python Developer → 🤖 AI Developer
+**Software Developer → Python & Backend Development → AI Developer**
 
-I want to combine my backend engineering experience with AI
-to build **scalable, intelligent, and production-ready applications**.
+My goal is to combine my backend engineering experience
+with Artificial Intelligence to build **scalable, intelligent,
+and production-ready applications**.
 
 <br clear="right"/>
 
@@ -120,45 +122,29 @@ to build **scalable, intelligent, and production-ready applications**.
 <table>
 <tr>
 
-<td align="center" width="30%">
+<td align="center" width="40%">
 
-## ⚙️
+## 💻
 
-### BACKEND DEVELOPER
+### SOFTWARE DEVELOPER
 
-Building scalable backend systems
+Python • Backend • FastAPI • REST APIs
 
 </td>
 
-<td align="center" width="10%">
+<td align="center" width="20%">
 
 # →
 
 </td>
 
-<td align="center" width="30%">
-
-## 🐍
-
-### PYTHON DEVELOPER
-
-Building powerful applications & APIs
-
-</td>
-
-<td align="center" width="10%">
-
-# →
-
-</td>
-
-<td align="center" width="30%">
+<td align="center" width="40%">
 
 ## 🤖
 
 ### AI DEVELOPER
 
-Building intelligent applications
+Artificial Intelligence • ML • AI Applications
 
 </td>
 
@@ -169,13 +155,15 @@ Building intelligent applications
 
 <p align="center">
   <strong>
-    🏗️ Currently → 🤖 AI Developer
+    🏗️ Currently: Software Developer
+    &nbsp; → &nbsp;
+    🎯 Target: AI Developer
   </strong>
 </p>
 
 <p align="center">
-  My goal is to combine backend engineering with Artificial Intelligence
-  to build scalable and intelligent software.
+  Building strong backend engineering foundations today
+  to create intelligent AI applications tomorrow.
 </p>
 
 ---
@@ -183,19 +171,21 @@ Building intelligent applications
 # 🚀 What I'm Working Toward
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=800&lines=Learning+Artificial+Intelligence;Learning+Machine+Learning;Building+AI+Applications;Integrating+AI+with+Backend+Systems;Becoming+an+AI+Developer"
-    alt="Learning Animation"
-  />
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=800&lines=Strengthening+Python;Mastering+Backend+Development;Learning+Artificial+Intelligence;Learning+Machine+Learning;Building+AI+Applications;AI+%2B+Backend+Integration;Targeting+AI+Developer"
+  alt="Learning Animation"
+/>
+
 </p>
 
 ### 🎯 Short Term
 
-- 🤖 Strengthen **Artificial Intelligence fundamentals**
+- 🐍 Strengthen **Advanced Python**
+- 🤖 Learn **Artificial Intelligence fundamentals**
 - 🧠 Learn **Machine Learning**
-- 🐍 Advanced Python for AI/ML
-- 🔗 AI + REST API integration
-- 📊 Data processing and model development
+- 🔗 Integrate AI with **REST APIs**
+- 📊 Learn data processing and model development
 - 🧩 Build practical AI projects
 
 ### 🚀 Medium Term
@@ -204,11 +194,11 @@ Building intelligent applications
 - 🤖 Generative AI
 - 🔌 AI-powered backend applications
 - 🧠 LLM application development
-- 🏗️ Production AI architecture
+- 🏗️ AI application architecture
 
 ### 💡 Long Term
 
-> **Become a strong AI Developer by combining backend engineering, Python, databases, and Artificial Intelligence.**
+> **Become an AI Developer by combining my Software Development experience, Python backend engineering, databases, and Artificial Intelligence.**
 
 ---
 
@@ -217,12 +207,19 @@ Building intelligent applications
 ## 🐍 Backend Development
 
 <p>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/REST%20API-FF7043?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/JWT%20AUTH-000000?style=for-the-badge">
+
 </p>
 
 ---
@@ -230,8 +227,11 @@ Building intelligent applications
 ## 🗄️ Databases
 
 <p>
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
 </p>
 
 ---
@@ -239,10 +239,15 @@ Building intelligent applications
 ## 🧰 Development Tools
 
 <p>
+
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
 </p>
 
 ---
@@ -251,20 +256,26 @@ Building intelligent applications
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Deep+Learning;Generative+AI;AI+Application+Development;AI+%2B+Backend+Integration"
-alt="AI ML Animation"
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Deep+Learning;Generative+AI;AI+Application+Development;AI+%2B+Backend+Integration"
+  alt="AI ML Animation"
 />
 
 </p>
 
 <p>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
 </p>
 
-> 🚧 **Currently expanding my AI/ML skill set and building practical AI projects.**
+> 🚧 **Currently learning AI/ML and building practical AI projects.**
 
 ---
 
@@ -286,7 +297,7 @@ alt="AI ML Animation"
 - 🔗 REST API Integration
 - 🗄️ MySQL Database Management
 
-**Technology**
+### Technology
 
 `Python` `FastAPI` `REST API` `MySQL` `SQLAlchemy` `JWT` `React.js`
 
@@ -297,7 +308,7 @@ alt="AI ML Animation"
 > Production-oriented backend services focused on API design,
 > business logic, validation, authentication, and database integration.
 
-**Technology**
+### Technology
 
 `Python` `FastAPI` `REST API` `MySQL` `SQLAlchemy` `Pydantic`
 
@@ -305,10 +316,10 @@ alt="AI ML Animation"
 
 ## 🤖 AI + Backend Applications
 
-> Future-focused projects combining Python backend engineering
-> with Artificial Intelligence and Machine Learning.
+> Future-focused applications combining Python backend
+> engineering with Artificial Intelligence and Machine Learning.
 
-**Technology**
+### Technology
 
 `Python` `FastAPI` `Machine Learning` `AI` `REST API`
 
@@ -319,8 +330,8 @@ alt="AI ML Animation"
 <p align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=900&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Deep+Learning;Generative+AI;AI+Agents;LLM+Applications;AI+API+Integration"
-alt="Currently Learning"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=900&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Deep+Learning;Generative+AI;AI+Agents;LLM+Applications;AI+API+Integration"
+  alt="Currently Learning"
 />
 
 </p>
@@ -398,7 +409,7 @@ I believe good software should be:
 <p align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=BACKEND+DEVELOPER;PYTHON+DEVELOPER;AI+DEVELOPER;AI+%2B+BACKEND+ENGINEER;BUILDING+INTELLIGENT+SOFTWARE"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=SOFTWARE+DEVELOPER;PYTHON+%26+BACKEND+DEVELOPER;FASTAPI+%26+REST+API+DEVELOPER;LEARNING+ARTIFICIAL+INTELLIGENCE;TARGETING+AI+DEVELOPER"
   alt="Career Animation"
 />
 
@@ -406,15 +417,15 @@ I believe good software should be:
 
 <p align="center">
 
-🏗️ <strong>Currently:</strong> Backend Developer
+💻 <strong>Current:</strong> Software Developer
 
-<br>
+<br><br>
 
 ⬇️
 
-<br>
+<br><br>
 
-🤖 <strong>Target:</strong> AI Developer
+🎯 <strong>Target:</strong> AI Developer
 
 </p>
 
@@ -422,41 +433,19 @@ I believe good software should be:
 
 # 💼 Open to Opportunities
 
-I'm interested in opportunities where I can contribute to
-**backend engineering** while progressing toward **AI development**.
+I'm interested in opportunities where I can contribute as a
+**Software Developer / Python Backend Developer** while
+continuing my transition toward **AI Development**.
 
 ### Looking for roles such as:
 
 - 🐍 **Python Backend Developer**
 - ⚙️ **Software Developer**
 - 🔗 **Backend / REST API Developer**
+- 🧠 **Python Developer**
 - 🤖 **AI Developer — Entry / Transition Role**
 - 🧠 **Python + AI Developer**
 - 🌐 **Backend + AI Engineer**
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-📍 **Bhubaneswar, India**
-
-<br>
-
-📧 **jagannathn326@gmail.com**
-
-<br><br>
-
-<a href="mailto:jagannathn326@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-jagannathn326%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-JAGANNATH%20NAYAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
 
 ---
 
@@ -479,6 +468,23 @@ I'm interested in opportunities where I can contribute to
 <a href="https://www.linkedin.com/in/jagannathnayak1/">
 <img src="https://img.shields.io/badge/LINKEDIN-JAGANNATH%20NAYAK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=Backend+Today+%7C+AI+Tomorrow;Code+%7C+Learn+%7C+Build+%7C+Innovate"
+  alt="Closing Animation"
+/>
+
+</p>
+
+<p align="center">
+
+⭐ <strong>Thanks for visiting my GitHub profile!</strong> ⭐
 
 </p>
 
